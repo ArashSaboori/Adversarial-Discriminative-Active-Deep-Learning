@@ -1,0 +1,601 @@
++ python -u main.py --root_path=../data/datasets/A-M/ --src_dataset=AID --tgt_dataset=Mecred --num_class=10 --max_epoch=100 --batch_size=32 --lr=0.0002
+Train Epoch:1 Adversarial Loss: 0.028236
+Source: AID to Target: Mecred  Accuracy : 664/1000 (66.40%) Max Accuracy : 664/1000 (66.40%) 
+
+Train Epoch:2 Adversarial Loss: 0.024594
+Source: AID to Target: Mecred  Accuracy : 754/1000 (75.40%) Max Accuracy : 754/1000 (75.40%) 
+
+Train Epoch:3 Adversarial Loss: 0.019959
+Source: AID to Target: Mecred  Accuracy : 800/1000 (80.00%) Max Accuracy : 800/1000 (80.00%) 
+
+Train Epoch:4 Adversarial Loss: 0.013784
+Source: AID to Target: Mecred  Accuracy : 742/1000 (74.20%) Max Accuracy : 800/1000 (80.00%) 
+
+Train Epoch:5 Adversarial Loss: 0.021245
+Source: AID to Target: Mecred  Accuracy : 803/1000 (80.30%) Max Accuracy : 803/1000 (80.30%) 
+
+Train Epoch:6 Adversarial Loss: 0.019243
+Source: AID to Target: Mecred  Accuracy : 845/1000 (84.50%) Max Accuracy : 845/1000 (84.50%) 
+
+Train Epoch:7 Adversarial Loss: 0.024531
+Source: AID to Target: Mecred  Accuracy : 818/1000 (81.80%) Max Accuracy : 845/1000 (84.50%) 
+
+Train Epoch:8 Adversarial Loss: 0.015678
+Source: AID to Target: Mecred  Accuracy : 831/1000 (83.10%) Max Accuracy : 845/1000 (84.50%) 
+
+Train Epoch:9 Adversarial Loss: 0.013287
+Source: AID to Target: Mecred  Accuracy : 835/1000 (83.50%) Max Accuracy : 845/1000 (84.50%) 
+
+Train Epoch:10 Adversarial Loss: 0.013197
+Source: AID to Target: Mecred  Accuracy : 819/1000 (81.90%) Max Accuracy : 845/1000 (84.50%) 
+
+Train Epoch:11 Adversarial Loss: 0.012278
+Source: AID to Target: Mecred  Accuracy : 839/1000 (83.90%) Max Accuracy : 845/1000 (84.50%) 
+
+Train Epoch:12 Adversarial Loss: 0.017588
+Source: AID to Target: Mecred  Accuracy : 855/1000 (85.50%) Max Accuracy : 855/1000 (85.50%) 
+
+Train Epoch:13 Adversarial Loss: 0.021020
+Source: AID to Target: Mecred  Accuracy : 838/1000 (83.80%) Max Accuracy : 855/1000 (85.50%) 
+
+Train Epoch:14 Adversarial Loss: 0.011577
+Source: AID to Target: Mecred  Accuracy : 813/1000 (81.30%) Max Accuracy : 855/1000 (85.50%) 
+
+Train Epoch:15 Adversarial Loss: 0.004725
+Source: AID to Target: Mecred  Accuracy : 809/1000 (80.90%) Max Accuracy : 855/1000 (85.50%) 
+
+Train Epoch:16 Adversarial Loss: 0.010710
+Source: AID to Target: Mecred  Accuracy : 853/1000 (85.30%) Max Accuracy : 855/1000 (85.50%) 
+
+Train Epoch:17 Adversarial Loss: 0.008116
+Source: AID to Target: Mecred  Accuracy : 792/1000 (79.20%) Max Accuracy : 855/1000 (85.50%) 
+
+Train Epoch:18 Adversarial Loss: 0.013383
+Source: AID to Target: Mecred  Accuracy : 814/1000 (81.40%) Max Accuracy : 855/1000 (85.50%) 
+
+Train Epoch:19 Adversarial Loss: 0.015372
+Source: AID to Target: Mecred  Accuracy : 876/1000 (87.60%) Max Accuracy : 876/1000 (87.60%) 
+
+Train Epoch:20 Adversarial Loss: 0.019730
+Source: AID to Target: Mecred  Accuracy : 839/1000 (83.90%) Max Accuracy : 876/1000 (87.60%) 
+
+Train Epoch:21 Adversarial Loss: 0.006528
+Source: AID to Target: Mecred  Accuracy : 848/1000 (84.80%) Max Accuracy : 876/1000 (87.60%) 
+
+Train Epoch:22 Adversarial Loss: 0.012288
+Source: AID to Target: Mecred  Accuracy : 835/1000 (83.50%) Max Accuracy : 876/1000 (87.60%) 
+
+Train Epoch:23 Adversarial Loss: 0.006419
+Source: AID to Target: Mecred  Accuracy : 837/1000 (83.70%) Max Accuracy : 876/1000 (87.60%) 
+
+Train Epoch:24 Adversarial Loss: 0.003778
+Source: AID to Target: Mecred  Accuracy : 843/1000 (84.30%) Max Accuracy : 876/1000 (87.60%) 
+
+Train Epoch:25 Adversarial Loss: 0.005730
+Source: AID to Target: Mecred  Accuracy : 863/1000 (86.30%) Max Accuracy : 876/1000 (87.60%) 
+
+Train Epoch:26 Adversarial Loss: 0.011543
+Source: AID to Target: Mecred  Accuracy : 872/1000 (87.20%) Max Accuracy : 876/1000 (87.60%) 
+
+Train Epoch:27 Adversarial Loss: 0.013807
+Source: AID to Target: Mecred  Accuracy : 846/1000 (84.60%) Max Accuracy : 876/1000 (87.60%) 
+
+Train Epoch:28 Adversarial Loss: 0.004388
+Source: AID to Target: Mecred  Accuracy : 878/1000 (87.80%) Max Accuracy : 878/1000 (87.80%) 
+
+Train Epoch:29 Adversarial Loss: 0.007978
+Source: AID to Target: Mecred  Accuracy : 833/1000 (83.30%) Max Accuracy : 878/1000 (87.80%) 
+
+Train Epoch:30 Adversarial Loss: 0.011055
+Source: AID to Target: Mecred  Accuracy : 873/1000 (87.30%) Max Accuracy : 878/1000 (87.80%) 
+
+Train Epoch:31 Adversarial Loss: 0.010609
+Source: AID to Target: Mecred  Accuracy : 851/1000 (85.10%) Max Accuracy : 878/1000 (87.80%) 
+
+Train Epoch:32 Adversarial Loss: 0.015210
+Source: AID to Target: Mecred  Accuracy : 864/1000 (86.40%) Max Accuracy : 878/1000 (87.80%) 
+
+Train Epoch:33 Adversarial Loss: 0.013774
+Source: AID to Target: Mecred  Accuracy : 874/1000 (87.40%) Max Accuracy : 878/1000 (87.80%) 
+
+Train Epoch:34 Adversarial Loss: 0.002090
+Source: AID to Target: Mecred  Accuracy : 842/1000 (84.20%) Max Accuracy : 878/1000 (87.80%) 
+
+Train Epoch:35 Adversarial Loss: 0.004991
+Source: AID to Target: Mecred  Accuracy : 851/1000 (85.10%) Max Accuracy : 878/1000 (87.80%) 
+
+Train Epoch:36 Adversarial Loss: 0.009229
+Source: AID to Target: Mecred  Accuracy : 885/1000 (88.50%) Max Accuracy : 885/1000 (88.50%) 
+
+Train Epoch:37 Adversarial Loss: 0.004306
+Source: AID to Target: Mecred  Accuracy : 841/1000 (84.10%) Max Accuracy : 885/1000 (88.50%) 
+
+Train Epoch:38 Adversarial Loss: 0.005312
+Source: AID to Target: Mecred  Accuracy : 877/1000 (87.70%) Max Accuracy : 885/1000 (88.50%) 
+
+Train Epoch:39 Adversarial Loss: 0.004849
+Source: AID to Target: Mecred  Accuracy : 868/1000 (86.80%) Max Accuracy : 885/1000 (88.50%) 
+
+Train Epoch:40 Adversarial Loss: 0.005556
+Source: AID to Target: Mecred  Accuracy : 885/1000 (88.50%) Max Accuracy : 885/1000 (88.50%) 
+
+Train Epoch:41 Adversarial Loss: 0.001638
+Source: AID to Target: Mecred  Accuracy : 862/1000 (86.20%) Max Accuracy : 885/1000 (88.50%) 
+
+Train Epoch:42 Adversarial Loss: 0.004890
+Source: AID to Target: Mecred  Accuracy : 862/1000 (86.20%) Max Accuracy : 885/1000 (88.50%) 
+
+Train Epoch:43 Adversarial Loss: 0.009813
+Source: AID to Target: Mecred  Accuracy : 876/1000 (87.60%) Max Accuracy : 885/1000 (88.50%) 
+
+Train Epoch:44 Adversarial Loss: 0.009877
+Source: AID to Target: Mecred  Accuracy : 885/1000 (88.50%) Max Accuracy : 885/1000 (88.50%) 
+
+Train Epoch:45 Adversarial Loss: 0.009634
+Source: AID to Target: Mecred  Accuracy : 864/1000 (86.40%) Max Accuracy : 885/1000 (88.50%) 
+
+Train Epoch:46 Adversarial Loss: 0.004990
+Source: AID to Target: Mecred  Accuracy : 882/1000 (88.20%) Max Accuracy : 885/1000 (88.50%) 
+
+Train Epoch:47 Adversarial Loss: 0.004412
+Source: AID to Target: Mecred  Accuracy : 882/1000 (88.20%) Max Accuracy : 885/1000 (88.50%) 
+
+Train Epoch:48 Adversarial Loss: 0.011577
+Source: AID to Target: Mecred  Accuracy : 881/1000 (88.10%) Max Accuracy : 885/1000 (88.50%) 
+
+Train Epoch:49 Adversarial Loss: 0.004297
+Source: AID to Target: Mecred  Accuracy : 873/1000 (87.30%) Max Accuracy : 885/1000 (88.50%) 
+
+Train Epoch:50 Adversarial Loss: 0.011285
+Source: AID to Target: Mecred  Accuracy : 891/1000 (89.10%) Max Accuracy : 891/1000 (89.10%) 
+
+Train Epoch:51 Adversarial Loss: 0.006135
+Source: AID to Target: Mecred  Accuracy : 886/1000 (88.60%) Max Accuracy : 891/1000 (89.10%) 
+
+Train Epoch:52 Adversarial Loss: 0.004914
+Source: AID to Target: Mecred  Accuracy : 889/1000 (88.90%) Max Accuracy : 891/1000 (89.10%) 
+
+Train Epoch:53 Adversarial Loss: 0.022013
+Source: AID to Target: Mecred  Accuracy : 882/1000 (88.20%) Max Accuracy : 891/1000 (89.10%) 
+
+Train Epoch:54 Adversarial Loss: 0.008470
+Source: AID to Target: Mecred  Accuracy : 871/1000 (87.10%) Max Accuracy : 891/1000 (89.10%) 
+
+Train Epoch:55 Adversarial Loss: 0.004226
+Source: AID to Target: Mecred  Accuracy : 845/1000 (84.50%) Max Accuracy : 891/1000 (89.10%) 
+
+Train Epoch:56 Adversarial Loss: 0.008910
+Source: AID to Target: Mecred  Accuracy : 889/1000 (88.90%) Max Accuracy : 891/1000 (89.10%) 
+
+Train Epoch:57 Adversarial Loss: 0.013009
+Source: AID to Target: Mecred  Accuracy : 873/1000 (87.30%) Max Accuracy : 891/1000 (89.10%) 
+
+Train Epoch:58 Adversarial Loss: 0.009985
+Source: AID to Target: Mecred  Accuracy : 875/1000 (87.50%) Max Accuracy : 891/1000 (89.10%) 
+
+Train Epoch:59 Adversarial Loss: 0.013977
+Source: AID to Target: Mecred  Accuracy : 877/1000 (87.70%) Max Accuracy : 891/1000 (89.10%) 
+
+Train Epoch:60 Adversarial Loss: 0.004500
+Source: AID to Target: Mecred  Accuracy : 883/1000 (88.30%) Max Accuracy : 891/1000 (89.10%) 
+
+Train Epoch:61 Adversarial Loss: 0.001845
+Source: AID to Target: Mecred  Accuracy : 894/1000 (89.40%) Max Accuracy : 894/1000 (89.40%) 
+
+Train Epoch:62 Adversarial Loss: 0.009059
+Source: AID to Target: Mecred  Accuracy : 883/1000 (88.30%) Max Accuracy : 894/1000 (89.40%) 
+
+Train Epoch:63 Adversarial Loss: 0.003379
+Source: AID to Target: Mecred  Accuracy : 879/1000 (87.90%) Max Accuracy : 894/1000 (89.40%) 
+
+Train Epoch:64 Adversarial Loss: 0.007368
+Source: AID to Target: Mecred  Accuracy : 883/1000 (88.30%) Max Accuracy : 894/1000 (89.40%) 
+
+Train Epoch:65 Adversarial Loss: 0.006565
+Source: AID to Target: Mecred  Accuracy : 887/1000 (88.70%) Max Accuracy : 894/1000 (89.40%) 
+
+Train Epoch:66 Adversarial Loss: 0.007587
+Source: AID to Target: Mecred  Accuracy : 888/1000 (88.80%) Max Accuracy : 894/1000 (89.40%) 
+
+Train Epoch:67 Adversarial Loss: 0.001385
+Source: AID to Target: Mecred  Accuracy : 866/1000 (86.60%) Max Accuracy : 894/1000 (89.40%) 
+
+Train Epoch:68 Adversarial Loss: 0.010629
+Source: AID to Target: Mecred  Accuracy : 884/1000 (88.40%) Max Accuracy : 894/1000 (89.40%) 
+
+Train Epoch:69 Adversarial Loss: 0.002901
+Source: AID to Target: Mecred  Accuracy : 887/1000 (88.70%) Max Accuracy : 894/1000 (89.40%) 
+
+Train Epoch:70 Adversarial Loss: 0.004837
+Source: AID to Target: Mecred  Accuracy : 885/1000 (88.50%) Max Accuracy : 894/1000 (89.40%) 
+
+Train Epoch:71 Adversarial Loss: 0.004654
+Source: AID to Target: Mecred  Accuracy : 885/1000 (88.50%) Max Accuracy : 894/1000 (89.40%) 
+
+Train Epoch:72 Adversarial Loss: 0.006127
+Source: AID to Target: Mecred  Accuracy : 895/1000 (89.50%) Max Accuracy : 895/1000 (89.50%) 
+
+Train Epoch:73 Adversarial Loss: 0.012714
+Source: AID to Target: Mecred  Accuracy : 822/1000 (82.20%) Max Accuracy : 895/1000 (89.50%) 
+
+Train Epoch:74 Adversarial Loss: 0.006951
+Source: AID to Target: Mecred  Accuracy : 891/1000 (89.10%) Max Accuracy : 895/1000 (89.50%) 
+
+Train Epoch:75 Adversarial Loss: 0.002841
+Source: AID to Target: Mecred  Accuracy : 850/1000 (85.00%) Max Accuracy : 895/1000 (89.50%) 
+
+Train Epoch:76 Adversarial Loss: 0.000960
+Source: AID to Target: Mecred  Accuracy : 849/1000 (84.90%) Max Accuracy : 895/1000 (89.50%) 
+
+Train Epoch:77 Adversarial Loss: 0.001849
+Source: AID to Target: Mecred  Accuracy : 890/1000 (89.00%) Max Accuracy : 895/1000 (89.50%) 
+
+Train Epoch:78 Adversarial Loss: 0.016769
+Source: AID to Target: Mecred  Accuracy : 887/1000 (88.70%) Max Accuracy : 895/1000 (89.50%) 
+
+Train Epoch:79 Adversarial Loss: 0.006460
+Source: AID to Target: Mecred  Accuracy : 878/1000 (87.80%) Max Accuracy : 895/1000 (89.50%) 
+
+Train Epoch:80 Adversarial Loss: 0.008488
+Source: AID to Target: Mecred  Accuracy : 890/1000 (89.00%) Max Accuracy : 895/1000 (89.50%) 
+
+Train Epoch:81 Adversarial Loss: 0.001640
+Source: AID to Target: Mecred  Accuracy : 889/1000 (88.90%) Max Accuracy : 895/1000 (89.50%) 
+
+Train Epoch:82 Adversarial Loss: 0.014163
+Source: AID to Target: Mecred  Accuracy : 887/1000 (88.70%) Max Accuracy : 895/1000 (89.50%) 
+
+Train Epoch:83 Adversarial Loss: 0.005050
+Source: AID to Target: Mecred  Accuracy : 889/1000 (88.90%) Max Accuracy : 895/1000 (89.50%) 
+
+Train Epoch:84 Adversarial Loss: 0.001594
+Source: AID to Target: Mecred  Accuracy : 893/1000 (89.30%) Max Accuracy : 895/1000 (89.50%) 
+
+Train Epoch:85 Adversarial Loss: 0.001036
+Source: AID to Target: Mecred  Accuracy : 883/1000 (88.30%) Max Accuracy : 895/1000 (89.50%) 
+
+Train Epoch:86 Adversarial Loss: 0.010599
+Source: AID to Target: Mecred  Accuracy : 899/1000 (89.90%) Max Accuracy : 899/1000 (89.90%) 
+
+Train Epoch:87 Adversarial Loss: 0.005831
+Source: AID to Target: Mecred  Accuracy : 885/1000 (88.50%) Max Accuracy : 899/1000 (89.90%) 
+
+Train Epoch:88 Adversarial Loss: 0.008718
+Source: AID to Target: Mecred  Accuracy : 878/1000 (87.80%) Max Accuracy : 899/1000 (89.90%) 
+
+Train Epoch:89 Adversarial Loss: 0.008969
+Source: AID to Target: Mecred  Accuracy : 899/1000 (89.90%) Max Accuracy : 899/1000 (89.90%) 
+
+Train Epoch:90 Adversarial Loss: 0.010945
+Source: AID to Target: Mecred  Accuracy : 902/1000 (90.20%) Max Accuracy : 902/1000 (90.20%) 
+
+Train Epoch:91 Adversarial Loss: 0.013792
+Source: AID to Target: Mecred  Accuracy : 867/1000 (86.70%) Max Accuracy : 902/1000 (90.20%) 
+
+Train Epoch:92 Adversarial Loss: 0.005589
+Source: AID to Target: Mecred  Accuracy : 877/1000 (87.70%) Max Accuracy : 902/1000 (90.20%) 
+
+Train Epoch:93 Adversarial Loss: 0.011105
+Source: AID to Target: Mecred  Accuracy : 829/1000 (82.90%) Max Accuracy : 902/1000 (90.20%) 
+
+Train Epoch:94 Adversarial Loss: 0.001416
+Source: AID to Target: Mecred  Accuracy : 902/1000 (90.20%) Max Accuracy : 902/1000 (90.20%) 
+
+Train Epoch:95 Adversarial Loss: 0.007625
+Source: AID to Target: Mecred  Accuracy : 896/1000 (89.60%) Max Accuracy : 902/1000 (90.20%) 
+
+Train Epoch:96 Adversarial Loss: 0.012978
+Source: AID to Target: Mecred  Accuracy : 882/1000 (88.20%) Max Accuracy : 902/1000 (90.20%) 
+
+Train Epoch:97 Adversarial Loss: 0.005718
+Source: AID to Target: Mecred  Accuracy : 898/1000 (89.80%) Max Accuracy : 902/1000 (90.20%) 
+
+Train Epoch:98 Adversarial Loss: 0.008761
+Source: AID to Target: Mecred  Accuracy : 882/1000 (88.20%) Max Accuracy : 902/1000 (90.20%) 
+
+Train Epoch:99 Adversarial Loss: 0.002766
+Source: AID to Target: Mecred  Accuracy : 894/1000 (89.40%) Max Accuracy : 902/1000 (90.20%) 
+
+Train Epoch:100 Adversarial Loss: 0.004986
+Source: AID to Target: Mecred  Accuracy : 901/1000 (90.10%) Max Accuracy : 902/1000 (90.20%) 
+
++ python -u main.py --root_path=../data/datasets/A-M/ --src_dataset=Mecred --tgt_dataset=AID --num_class=10 --max_epoch=100 --batch_size=32 --lr=0.0002
+Train Epoch:1 Adversarial Loss: 0.020984
+Source: Mecred to Target: AID  Accuracy : 2513/3410 (73.70%) Max Accuracy : 2513/3410 (73.70%) 
+
+Train Epoch:2 Adversarial Loss: 0.020701
+Source: Mecred to Target: AID  Accuracy : 2634/3410 (77.24%) Max Accuracy : 2634/3410 (77.24%) 
+
+Train Epoch:3 Adversarial Loss: 0.027962
+Source: Mecred to Target: AID  Accuracy : 2829/3410 (82.96%) Max Accuracy : 2829/3410 (82.96%) 
+
+Train Epoch:4 Adversarial Loss: 0.020243
+Source: Mecred to Target: AID  Accuracy : 2993/3410 (87.77%) Max Accuracy : 2993/3410 (87.77%) 
+
+Train Epoch:5 Adversarial Loss: 0.012820
+Source: Mecred to Target: AID  Accuracy : 3081/3410 (90.35%) Max Accuracy : 3081/3410 (90.35%) 
+
+Train Epoch:6 Adversarial Loss: 0.026170
+Source: Mecred to Target: AID  Accuracy : 3075/3410 (90.18%) Max Accuracy : 3081/3410 (90.35%) 
+
+Train Epoch:7 Adversarial Loss: 0.024457
+Source: Mecred to Target: AID  Accuracy : 3101/3410 (90.94%) Max Accuracy : 3101/3410 (90.94%) 
+
+Train Epoch:8 Adversarial Loss: 0.013183
+Source: Mecred to Target: AID  Accuracy : 3033/3410 (88.94%) Max Accuracy : 3101/3410 (90.94%) 
+
+Train Epoch:9 Adversarial Loss: 0.021036
+Source: Mecred to Target: AID  Accuracy : 3001/3410 (88.01%) Max Accuracy : 3101/3410 (90.94%) 
+
+Train Epoch:10 Adversarial Loss: 0.005335
+Source: Mecred to Target: AID  Accuracy : 3072/3410 (90.09%) Max Accuracy : 3101/3410 (90.94%) 
+
+Train Epoch:11 Adversarial Loss: 0.014298
+Source: Mecred to Target: AID  Accuracy : 2996/3410 (87.86%) Max Accuracy : 3101/3410 (90.94%) 
+
+Train Epoch:12 Adversarial Loss: 0.024219
+Source: Mecred to Target: AID  Accuracy : 2846/3410 (83.46%) Max Accuracy : 3101/3410 (90.94%) 
+
+Train Epoch:13 Adversarial Loss: 0.008356
+Source: Mecred to Target: AID  Accuracy : 3175/3410 (93.11%) Max Accuracy : 3175/3410 (93.11%) 
+
+Train Epoch:14 Adversarial Loss: 0.024874
+Source: Mecred to Target: AID  Accuracy : 3019/3410 (88.53%) Max Accuracy : 3175/3410 (93.11%) 
+
+Train Epoch:15 Adversarial Loss: 0.011811
+Source: Mecred to Target: AID  Accuracy : 3160/3410 (92.67%) Max Accuracy : 3175/3410 (93.11%) 
+
+Train Epoch:16 Adversarial Loss: 0.012979
+Source: Mecred to Target: AID  Accuracy : 3129/3410 (91.76%) Max Accuracy : 3175/3410 (93.11%) 
+
+Train Epoch:17 Adversarial Loss: 0.009461
+Source: Mecred to Target: AID  Accuracy : 3163/3410 (92.76%) Max Accuracy : 3175/3410 (93.11%) 
+
+Train Epoch:18 Adversarial Loss: 0.004495
+Source: Mecred to Target: AID  Accuracy : 3141/3410 (92.11%) Max Accuracy : 3175/3410 (93.11%) 
+
+Train Epoch:19 Adversarial Loss: 0.015115
+Source: Mecred to Target: AID  Accuracy : 3084/3410 (90.44%) Max Accuracy : 3175/3410 (93.11%) 
+
+Train Epoch:20 Adversarial Loss: 0.014235
+Source: Mecred to Target: AID  Accuracy : 3154/3410 (92.49%) Max Accuracy : 3175/3410 (93.11%) 
+
+Train Epoch:21 Adversarial Loss: 0.008586
+Source: Mecred to Target: AID  Accuracy : 3145/3410 (92.23%) Max Accuracy : 3175/3410 (93.11%) 
+
+Train Epoch:22 Adversarial Loss: 0.008580
+Source: Mecred to Target: AID  Accuracy : 3143/3410 (92.17%) Max Accuracy : 3175/3410 (93.11%) 
+
+Train Epoch:23 Adversarial Loss: 0.025853
+Source: Mecred to Target: AID  Accuracy : 3187/3410 (93.46%) Max Accuracy : 3187/3410 (93.46%) 
+
+Train Epoch:24 Adversarial Loss: 0.016386
+Source: Mecred to Target: AID  Accuracy : 3130/3410 (91.79%) Max Accuracy : 3187/3410 (93.46%) 
+
+Train Epoch:25 Adversarial Loss: 0.007020
+Source: Mecred to Target: AID  Accuracy : 3097/3410 (90.82%) Max Accuracy : 3187/3410 (93.46%) 
+
+Train Epoch:26 Adversarial Loss: 0.015580
+Source: Mecred to Target: AID  Accuracy : 3189/3410 (93.52%) Max Accuracy : 3189/3410 (93.52%) 
+
+Train Epoch:27 Adversarial Loss: 0.024595
+Source: Mecred to Target: AID  Accuracy : 3107/3410 (91.11%) Max Accuracy : 3189/3410 (93.52%) 
+
+Train Epoch:28 Adversarial Loss: 0.013200
+Source: Mecred to Target: AID  Accuracy : 3170/3410 (92.96%) Max Accuracy : 3189/3410 (93.52%) 
+
+Train Epoch:29 Adversarial Loss: 0.012261
+Source: Mecred to Target: AID  Accuracy : 3182/3410 (93.31%) Max Accuracy : 3189/3410 (93.52%) 
+
+Train Epoch:30 Adversarial Loss: 0.003853
+Source: Mecred to Target: AID  Accuracy : 3210/3410 (94.13%) Max Accuracy : 3210/3410 (94.13%) 
+
+Train Epoch:31 Adversarial Loss: 0.014833
+Source: Mecred to Target: AID  Accuracy : 3182/3410 (93.31%) Max Accuracy : 3210/3410 (94.13%) 
+
+Train Epoch:32 Adversarial Loss: 0.008657
+Source: Mecred to Target: AID  Accuracy : 3158/3410 (92.61%) Max Accuracy : 3210/3410 (94.13%) 
+
+Train Epoch:33 Adversarial Loss: 0.008031
+Source: Mecred to Target: AID  Accuracy : 3161/3410 (92.70%) Max Accuracy : 3210/3410 (94.13%) 
+
+Train Epoch:34 Adversarial Loss: 0.019328
+Source: Mecred to Target: AID  Accuracy : 3177/3410 (93.17%) Max Accuracy : 3210/3410 (94.13%) 
+
+Train Epoch:35 Adversarial Loss: 0.011063
+Source: Mecred to Target: AID  Accuracy : 2803/3410 (82.20%) Max Accuracy : 3210/3410 (94.13%) 
+
+Train Epoch:36 Adversarial Loss: 0.012275
+Source: Mecred to Target: AID  Accuracy : 3101/3410 (90.94%) Max Accuracy : 3210/3410 (94.13%) 
+
+Train Epoch:37 Adversarial Loss: 0.004224
+Source: Mecred to Target: AID  Accuracy : 3179/3410 (93.23%) Max Accuracy : 3210/3410 (94.13%) 
+
+Train Epoch:38 Adversarial Loss: 0.003131
+Source: Mecred to Target: AID  Accuracy : 3197/3410 (93.75%) Max Accuracy : 3210/3410 (94.13%) 
+
+Train Epoch:39 Adversarial Loss: 0.013403
+Source: Mecred to Target: AID  Accuracy : 3161/3410 (92.70%) Max Accuracy : 3210/3410 (94.13%) 
+
+Train Epoch:40 Adversarial Loss: 0.011100
+Source: Mecred to Target: AID  Accuracy : 3196/3410 (93.72%) Max Accuracy : 3210/3410 (94.13%) 
+
+Train Epoch:41 Adversarial Loss: 0.008497
+Source: Mecred to Target: AID  Accuracy : 3215/3410 (94.28%) Max Accuracy : 3215/3410 (94.28%) 
+
+Train Epoch:42 Adversarial Loss: 0.001492
+Source: Mecred to Target: AID  Accuracy : 3207/3410 (94.05%) Max Accuracy : 3215/3410 (94.28%) 
+
+Train Epoch:43 Adversarial Loss: 0.017732
+Source: Mecred to Target: AID  Accuracy : 3163/3410 (92.76%) Max Accuracy : 3215/3410 (94.28%) 
+
+Train Epoch:44 Adversarial Loss: 0.009821
+Source: Mecred to Target: AID  Accuracy : 3225/3410 (94.57%) Max Accuracy : 3225/3410 (94.57%) 
+
+Train Epoch:45 Adversarial Loss: 0.008322
+Source: Mecred to Target: AID  Accuracy : 3226/3410 (94.60%) Max Accuracy : 3226/3410 (94.60%) 
+
+Train Epoch:46 Adversarial Loss: 0.009756
+Source: Mecred to Target: AID  Accuracy : 3215/3410 (94.28%) Max Accuracy : 3226/3410 (94.60%) 
+
+Train Epoch:47 Adversarial Loss: 0.014835
+Source: Mecred to Target: AID  Accuracy : 3247/3410 (95.22%) Max Accuracy : 3247/3410 (95.22%) 
+
+Train Epoch:48 Adversarial Loss: 0.012660
+Source: Mecred to Target: AID  Accuracy : 3150/3410 (92.38%) Max Accuracy : 3247/3410 (95.22%) 
+
+Train Epoch:49 Adversarial Loss: 0.016281
+Source: Mecred to Target: AID  Accuracy : 3199/3410 (93.81%) Max Accuracy : 3247/3410 (95.22%) 
+
+Train Epoch:50 Adversarial Loss: 0.010017
+Source: Mecred to Target: AID  Accuracy : 3223/3410 (94.52%) Max Accuracy : 3247/3410 (95.22%) 
+
+Train Epoch:51 Adversarial Loss: 0.006228
+Source: Mecred to Target: AID  Accuracy : 3229/3410 (94.69%) Max Accuracy : 3247/3410 (95.22%) 
+
+Train Epoch:52 Adversarial Loss: 0.012588
+Source: Mecred to Target: AID  Accuracy : 3205/3410 (93.99%) Max Accuracy : 3247/3410 (95.22%) 
+
+Train Epoch:53 Adversarial Loss: 0.010781
+Source: Mecred to Target: AID  Accuracy : 3220/3410 (94.43%) Max Accuracy : 3247/3410 (95.22%) 
+
+Train Epoch:54 Adversarial Loss: 0.009888
+Source: Mecred to Target: AID  Accuracy : 3217/3410 (94.34%) Max Accuracy : 3247/3410 (95.22%) 
+
+Train Epoch:55 Adversarial Loss: 0.009465
+Source: Mecred to Target: AID  Accuracy : 3213/3410 (94.22%) Max Accuracy : 3247/3410 (95.22%) 
+
+Train Epoch:56 Adversarial Loss: 0.002675
+Source: Mecred to Target: AID  Accuracy : 3256/3410 (95.48%) Max Accuracy : 3256/3410 (95.48%) 
+
+Train Epoch:57 Adversarial Loss: 0.019453
+Source: Mecred to Target: AID  Accuracy : 3231/3410 (94.75%) Max Accuracy : 3256/3410 (95.48%) 
+
+Train Epoch:58 Adversarial Loss: 0.010020
+Source: Mecred to Target: AID  Accuracy : 3187/3410 (93.46%) Max Accuracy : 3256/3410 (95.48%) 
+
+Train Epoch:59 Adversarial Loss: 0.014735
+Source: Mecred to Target: AID  Accuracy : 3201/3410 (93.87%) Max Accuracy : 3256/3410 (95.48%) 
+
+Train Epoch:60 Adversarial Loss: 0.004367
+Source: Mecred to Target: AID  Accuracy : 3224/3410 (94.55%) Max Accuracy : 3256/3410 (95.48%) 
+
+Train Epoch:61 Adversarial Loss: 0.010590
+Source: Mecred to Target: AID  Accuracy : 3223/3410 (94.52%) Max Accuracy : 3256/3410 (95.48%) 
+
+Train Epoch:62 Adversarial Loss: 0.017793
+Source: Mecred to Target: AID  Accuracy : 3244/3410 (95.13%) Max Accuracy : 3256/3410 (95.48%) 
+
+Train Epoch:63 Adversarial Loss: 0.012608
+Source: Mecred to Target: AID  Accuracy : 3240/3410 (95.01%) Max Accuracy : 3256/3410 (95.48%) 
+
+Train Epoch:64 Adversarial Loss: 0.008214
+Source: Mecred to Target: AID  Accuracy : 3237/3410 (94.93%) Max Accuracy : 3256/3410 (95.48%) 
+
+Train Epoch:65 Adversarial Loss: 0.020478
+Source: Mecred to Target: AID  Accuracy : 3218/3410 (94.37%) Max Accuracy : 3256/3410 (95.48%) 
+
+Train Epoch:66 Adversarial Loss: 0.013888
+Source: Mecred to Target: AID  Accuracy : 3261/3410 (95.63%) Max Accuracy : 3261/3410 (95.63%) 
+
+Train Epoch:67 Adversarial Loss: 0.003421
+Source: Mecred to Target: AID  Accuracy : 3242/3410 (95.07%) Max Accuracy : 3261/3410 (95.63%) 
+
+Train Epoch:68 Adversarial Loss: 0.006707
+Source: Mecred to Target: AID  Accuracy : 3230/3410 (94.72%) Max Accuracy : 3261/3410 (95.63%) 
+
+Train Epoch:69 Adversarial Loss: 0.002436
+Source: Mecred to Target: AID  Accuracy : 3246/3410 (95.19%) Max Accuracy : 3261/3410 (95.63%) 
+
+Train Epoch:70 Adversarial Loss: 0.016715
+Source: Mecred to Target: AID  Accuracy : 3228/3410 (94.66%) Max Accuracy : 3261/3410 (95.63%) 
+
+Train Epoch:71 Adversarial Loss: 0.002544
+Source: Mecred to Target: AID  Accuracy : 3266/3410 (95.78%) Max Accuracy : 3266/3410 (95.78%) 
+
+Train Epoch:72 Adversarial Loss: 0.010554
+Source: Mecred to Target: AID  Accuracy : 3207/3410 (94.05%) Max Accuracy : 3266/3410 (95.78%) 
+
+Train Epoch:73 Adversarial Loss: 0.006878
+Source: Mecred to Target: AID  Accuracy : 3255/3410 (95.45%) Max Accuracy : 3266/3410 (95.78%) 
+
+Train Epoch:74 Adversarial Loss: 0.009080
+Source: Mecred to Target: AID  Accuracy : 3254/3410 (95.43%) Max Accuracy : 3266/3410 (95.78%) 
+
+Train Epoch:75 Adversarial Loss: 0.009974
+Source: Mecred to Target: AID  Accuracy : 3241/3410 (95.04%) Max Accuracy : 3266/3410 (95.78%) 
+
+Train Epoch:76 Adversarial Loss: 0.005628
+Source: Mecred to Target: AID  Accuracy : 3162/3410 (92.73%) Max Accuracy : 3266/3410 (95.78%) 
+
+Train Epoch:77 Adversarial Loss: 0.019428
+Source: Mecred to Target: AID  Accuracy : 3236/3410 (94.90%) Max Accuracy : 3266/3410 (95.78%) 
+
+Train Epoch:78 Adversarial Loss: 0.003122
+Source: Mecred to Target: AID  Accuracy : 3220/3410 (94.43%) Max Accuracy : 3266/3410 (95.78%) 
+
+Train Epoch:79 Adversarial Loss: 0.002683
+Source: Mecred to Target: AID  Accuracy : 3265/3410 (95.75%) Max Accuracy : 3266/3410 (95.78%) 
+
+Train Epoch:80 Adversarial Loss: 0.008304
+Source: Mecred to Target: AID  Accuracy : 3258/3410 (95.54%) Max Accuracy : 3266/3410 (95.78%) 
+
+Train Epoch:81 Adversarial Loss: 0.003873
+Source: Mecred to Target: AID  Accuracy : 3212/3410 (94.19%) Max Accuracy : 3266/3410 (95.78%) 
+
+Train Epoch:82 Adversarial Loss: 0.007803
+Source: Mecred to Target: AID  Accuracy : 3221/3410 (94.46%) Max Accuracy : 3266/3410 (95.78%) 
+
+Train Epoch:83 Adversarial Loss: 0.007473
+Source: Mecred to Target: AID  Accuracy : 3248/3410 (95.25%) Max Accuracy : 3266/3410 (95.78%) 
+
+Train Epoch:84 Adversarial Loss: 0.005489
+Source: Mecred to Target: AID  Accuracy : 3174/3410 (93.08%) Max Accuracy : 3266/3410 (95.78%) 
+
+Train Epoch:85 Adversarial Loss: 0.011440
+Source: Mecred to Target: AID  Accuracy : 3172/3410 (93.02%) Max Accuracy : 3266/3410 (95.78%) 
+
+Train Epoch:86 Adversarial Loss: 0.020634
+Source: Mecred to Target: AID  Accuracy : 2593/3410 (76.04%) Max Accuracy : 3266/3410 (95.78%) 
+
+Train Epoch:87 Adversarial Loss: 0.009258
+Source: Mecred to Target: AID  Accuracy : 3204/3410 (93.96%) Max Accuracy : 3266/3410 (95.78%) 
+
+Train Epoch:88 Adversarial Loss: 0.009485
+Source: Mecred to Target: AID  Accuracy : 3200/3410 (93.84%) Max Accuracy : 3266/3410 (95.78%) 
+
+Train Epoch:89 Adversarial Loss: 0.012798
+Source: Mecred to Target: AID  Accuracy : 3239/3410 (94.99%) Max Accuracy : 3266/3410 (95.78%) 
+
+Train Epoch:90 Adversarial Loss: 0.007893
+Source: Mecred to Target: AID  Accuracy : 3256/3410 (95.48%) Max Accuracy : 3266/3410 (95.78%) 
+
+Train Epoch:91 Adversarial Loss: 0.011398
+Source: Mecred to Target: AID  Accuracy : 3269/3410 (95.87%) Max Accuracy : 3269/3410 (95.87%) 
+
+Train Epoch:92 Adversarial Loss: 0.004087
+Source: Mecred to Target: AID  Accuracy : 3235/3410 (94.87%) Max Accuracy : 3269/3410 (95.87%) 
+
+Train Epoch:93 Adversarial Loss: 0.005241
+Source: Mecred to Target: AID  Accuracy : 3226/3410 (94.60%) Max Accuracy : 3269/3410 (95.87%) 
+
+Train Epoch:94 Adversarial Loss: 0.005089
+Source: Mecred to Target: AID  Accuracy : 3254/3410 (95.43%) Max Accuracy : 3269/3410 (95.87%) 
+
+Train Epoch:95 Adversarial Loss: 0.013057
+Source: Mecred to Target: AID  Accuracy : 3229/3410 (94.69%) Max Accuracy : 3269/3410 (95.87%) 
+
+Train Epoch:96 Adversarial Loss: 0.011726
+Source: Mecred to Target: AID  Accuracy : 3191/3410 (93.58%) Max Accuracy : 3269/3410 (95.87%) 
+
+Train Epoch:97 Adversarial Loss: 0.005034
+Source: Mecred to Target: AID  Accuracy : 3251/3410 (95.34%) Max Accuracy : 3269/3410 (95.87%) 
+
+Train Epoch:98 Adversarial Loss: 0.006691
+Source: Mecred to Target: AID  Accuracy : 3247/3410 (95.22%) Max Accuracy : 3269/3410 (95.87%) 
+
+Train Epoch:99 Adversarial Loss: 0.004783
+Source: Mecred to Target: AID  Accuracy : 3234/3410 (94.84%) Max Accuracy : 3269/3410 (95.87%) 
+
+Train Epoch:100 Adversarial Loss: 0.006117
+Source: Mecred to Target: AID  Accuracy : 3237/3410 (94.93%) Max Accuracy : 3269/3410 (95.87%) 
