@@ -15,7 +15,7 @@ Title   : Adversarial Discriminative Active Deep Learning for Domain
            
  Journal :International Journal of Remote Sensing
  
- DOI     :https://doi.org/10.1080/01431161.2021.1880663 Feature-Oriented Adversarial Active Learning'.
+ DOI     :https://doi.org/10.1080/01431161.2021.1880663 
  
  
 ==============================================================================
