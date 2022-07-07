@@ -1,19 +1,23 @@
  Adversarial-Discriminative-Active-Deep-Learning
 
  Time    : 2021/1/20
+ 
  Author  : Arash Saboori & Hassan Ghassemian
+ 
  Email   : arash.saboori@srbiau.ac.ir
+ 
  ORCID   :  https://orcid.org/ 0000-0002-5510-9105
 
 ==============================================================================
 
 Please Refer to following paper, if you use this code:
-
-
- Title   : Adversarial Discriminative Active Deep Learning for Domain 
-           Adaptation in Hyperspectral Images Classification. 
+Title   : Adversarial Discriminative Active Deep Learning for Domain 
+           Adaptation in Hyperspectral Images Classification.
+           
  Journal :International Journal of Remote Sensing
+ 
  DOI     :https://doi.org/10.1080/01431161.2021.1880663 Feature-Oriented Adversarial Active Learning'.
+ 
 ==============================================================================
 ##  Environment & Main Dependencies
 
