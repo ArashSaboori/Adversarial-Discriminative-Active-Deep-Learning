@@ -1,5 +1,3 @@
- Adversarial-Discriminative-Active-Deep-Learning
-
  Time    : 2021/1/20
  
  Author  : Arash Saboori 
