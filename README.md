@@ -6,7 +6,7 @@
  
   ORCID   :  https://orcid.org/ 0000-0002-5510-9105
  
-==============================================================================
+=========================================================================
 
 Please Refer to following paper, if you use this code:
 
@@ -19,7 +19,7 @@ Journal :International Journal of Remote Sensing
 
 DOI     :https://doi.org/10.1080/01431161.2021.1880663 Feature-Oriented Adversarial Active Learning'.
 
-==============================================================================
+==========================================================================
 
 ##  Environment & Main Dependencies
 
@@ -27,7 +27,7 @@ DOI     :https://doi.org/10.1080/01431161.2021.1880663 Feature-Oriented Adversar
 >Tesla K80 Graphic Processing Units<br>
 >python 3.6.5<br>
 >TensorFlow 2.0.0
-==============================================================================
+=========================================================================
 
 ##  Usage
 
